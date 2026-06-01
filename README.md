@@ -18,7 +18,7 @@ Currently working on generative AI workflows and LLM evaluation at Cialfor Resea
 - 🔐 Interested in the intersection of **AI + Cybersecurity** (VAPT, cloud security)
 - 📊 Love building **Power BI dashboards** that actually drive decisions
 - 🌱 Exploring **RAG systems**, **prompt engineering**, and **model fine-tuning**
-- 📫 Reach me: [22r11a6949@gcet.edu.in](mailto:22r11a6949@gcet.edu.in)
+- 📫 Reach me: [22r11a6949@gcet.edu.in](mailto:garlapatitarun2004@gmail.com)
 
 ---
 
